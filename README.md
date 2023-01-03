@@ -1,4 +1,4 @@
-# python_tasks_Ardigen
+# sample_python_tasks
 
 The tasks and the corresponding scripts are as follows:
 
